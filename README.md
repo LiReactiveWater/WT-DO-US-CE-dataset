@@ -9,5 +9,8 @@ Prepared discharge data for CE (Q) can be obtained from the LamaH-CE dataset. At
 
 Attributes in the US and CE are compiled from the database of Geospatial Attributes of Gages for Evaluating Streamflow dataset Version II (GAGES-II) and LamaH-CE, respectively.
 
+Model data include daily DO and WT in the US and CE.
+
 #### LamaH-CE referecne:
-- Klingler, C., Schulz, K., & Herrnegger, M. (2021) LamaH-CE: LArge-SaMple DAta for hydrology and environmental sciences for Central Europe. Earth System Science Data, 13(9), 4529-4565, https://doi.org/10.5194/essd-13-4529-2021.
+- Klingler, C., Schulz, K., & Herrnegger, M. (2021) LamaH-CE: LArge-SaMple DAta for hydrology and environmental sciences for Central Europe. *Earth System Science Data*, 13(9), 4529-4565, https://doi.org/10.5194/essd-13-4529-2021.
+- Zhi, W., Klingler, C., Liu, J., & Li, L. (2023). Widespread deoxygenation in warming rivers. *Nature Climate Change*, 1-9.
