@@ -1,5 +1,7 @@
 The supporting data here include a site list of 580 US rivers and 216 CE rivers, and temporal data of dissolved oxygen (DO), water temperature (WT), and discharge (Q) in the US, and basin attributes across 5 categories of climate, hydrology, topography, land use, and soils in the US and CE.
 
+Model data include daily DO and WT in the US and CE.
+
 Attributes in the US and CE are compiled from the database of Geospatial Attributes of Gages for Evaluating Streamflow dataset Version II (GAGES-II) and LamaH-CE, respectively.
 
 LamaH-CE reference:
